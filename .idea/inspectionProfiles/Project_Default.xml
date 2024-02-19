@@ -6,6 +6,8 @@
         <list>
           <option value="org.slf4j:slf4j-api" />
           <option value="org.slf4j:slf4j-simple" />
+          <option value="com.fasterxml.jackson.core:jackson-annotations" />
+          <option value="com.fasterxml.jackson.core:jackson-databind" />
         </list>
       </option>
     </inspection_tool>
